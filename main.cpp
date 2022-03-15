@@ -1,4 +1,4 @@
-﻿#include "offsets.h"
+#include "offsets.h"
 #include <string.h>
 #include <string>
 #include <xstring>
@@ -45,6 +45,8 @@ std::string random_string(std::size_t length)
 	return random_string;
 }
 
+
+//\x36\x36\x37
 typedef int (WINAPI* LPFN_MBA)(DWORD);
 static LPFN_MBA NtGetAsyncKeyState;
 
