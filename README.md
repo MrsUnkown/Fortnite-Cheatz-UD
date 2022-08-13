@@ -5,7 +5,7 @@ Current features:
 - Silent Aimbot
 - Visuals
 
-- FOV Circle
+- FOV Circleda
 - Box Esp
 - Skeleton ESP
 - Distance ESP
