@@ -1,4 +1,5 @@
 # Apple-Lite-Fortnite-Cheat
+CHECK RELEASES FOR NEW UPDATE
 Current features:
 
 - Memory Aimbot
